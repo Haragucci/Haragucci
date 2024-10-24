@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Haragucci!
+# Hi there 👋, I'm Tilljan!
 
 I’m Haragucci, a 17-year-old passionate developer who loves creating fun projects and exploring new technologies! 🚀  
 Currently working on exciting web development and game projects. Let's code something amazing together!
