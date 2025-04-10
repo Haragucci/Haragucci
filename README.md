@@ -20,7 +20,7 @@ Here are some of the technologies I use regularly:
 ## 📊 GitHub Stats
 
 ![Haragucci's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haragucci&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-ltheme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haragucci&layout=compact&theme=radical)
 
 ---
 
